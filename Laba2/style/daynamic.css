@@ -7,16 +7,24 @@ body
 {
     transition: 1s;
     text-align: center;
-
 }
 
 .fio:hover
 {
-    transform: scale(2);
+    font-size: 20px;
 }
 /*Увеличение размера шрифта*/
 
+.avatarka img
+{
+    transition: 4s;
+}
 
+.avatarka img:hover
+{
+    width: 20%;
+    height: 20%;
+}
 
 
 
