@@ -1,0 +1,22 @@
+body
+{
+    text-align: center;
+}
+/*Увеличение размера шрифта*/
+.fio
+{
+    transition: 1s;
+    text-align: center;
+
+}
+
+.fio:hover
+{
+    transform: scale(2);
+}
+/*Увеличение размера шрифта*/
+
+
+
+
+
